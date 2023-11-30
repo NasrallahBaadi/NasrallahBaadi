@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nasrallah Baadi</h1>
 <h3 align="center">An ethical hacker, CTF player and blogger</h3>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <div style="display: inline-block; margin: 0 10px; vertical-align: middle;">
-        <script src="https://www.hackthebox.eu/badge/565048" height="100"></script>
-    </div>
-    <div style="display: inline-block; margin: 0 10px; vertical-align: middle;">
-        <script src="https://tryhackme.com/badge/367641" height="100"></script>
-    </div>
-</div>
+<div align="center"> <script src="https://tryhackme.com/badge/367641"></script> </div>
+
+<div align="center"> <script src="https://www.hackthebox.eu/badge/565048"></script> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -29,5 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrallahbaadi&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="200" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasrallahbaadi&theme=tokyonight" height="200" alt="stats graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/nasrallahbaadi/nasrallahbaadi/output/snake.svg" />
