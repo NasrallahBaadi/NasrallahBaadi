@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 <h1 align="center">Hi 👋, I'm Nasrallah Baadi</h1>
 <h3 align="center">An ethical hacker, CTF player and blogger</h3>
 
