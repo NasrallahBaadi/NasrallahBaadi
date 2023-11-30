@@ -2,8 +2,8 @@
 <h3 align="center">An ethical hacker, CTF player and blogger</h3>
 
 <div align="center">
-    <img src="https://www.hackthebox.eu/badge/image/565048" height="100" style="margin: 0 10px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nasrallah.png" height="100" style="margin: 0 10px;">
+    <img src="https://www.hackthebox.eu/badge/image/565048" height="70" style="margin: 0 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Nasrallah.png" height="70" style="margin: 0 10px;">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasrallahbaadi&show_icons=true&locale=en&theme=tokyonight" height="200" alt="stats graph"  />
