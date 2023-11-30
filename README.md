@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nasrallah Baadi</h1>
 <h3 align="center">An ethical hacker, CTF player and blogger</h3>
 
-<div align="center"> <script src="https://tryhackme.com/badge/367641"></script> </div>
-
-<div align="center"> <script src="https://www.hackthebox.eu/badge/565048"></script> </div>
+<div align="center">
+    <img src="https://www.hackthebox.eu/badge/image/565048" height="100" style="margin: 0 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Nasrallah.png" height="100" style="margin: 0 10px;">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
